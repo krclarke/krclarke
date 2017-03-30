@@ -5,6 +5,6 @@ My site
 
 ### subtitle 2
 
-- one
+- ***one***
 - **two**
 - *three*
