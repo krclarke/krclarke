@@ -6,5 +6,5 @@ My site
 ### subtitle 2
 
 - one
-- two
-- three
+- **two**
+- *three*
